@@ -5,8 +5,8 @@
 Un layout de teclado en español **Latinoamericano ISO** modificado para desarrolladores, **eliminando combinaciones complejas** para caracteres esenciales en programación:
 
 ## ✨ Características
-- **Backtick (`) con una tecla**: Genera `` ` `` directamente con la tecla `{`.
-- **Caret (^) directo**: Accede al símbolo `^` con la tecla `}`.
+- **Backtick (<code>&#96;</code>) con una tecla**: Genera <code>&#96;</code> directamente con `AltGr + }`.
+- **Caret (^) directo**: Accede al símbolo `^` con `AltGr + {`.
 - **Layout original preservado**: La tecla **Ñ y todas las demás** conservan su funcionamiento estándar.
 - **Optimizado para desarrollo**: Ideal para JavaScript, Git, Markdown y entornos CLI.
 
@@ -25,24 +25,25 @@ Un layout de teclado en español **Latinoamericano ISO** modificado para desarro
 > ⚠️ **Nota**: Windows puede mostrar una advertencia por ser un driver no firmado. Selecciona "Instalar de todas formas".
 
 ## ⌨️ Mapa de teclas modificado
-| Tecla Física | Función Original           | Nueva Función         |
-|--------------|----------------------------|-----------------------|
-| `{`          | `AltGr + { = ^^`  (muerto) | **`` ` ``** (directo) |
-| `}`          | `AltGr + } = `` ` (muerto) | **`^`** (directo)     |
+| Tecla Física | Función Original       | Nueva Función              |
+|--------------|------------------------|----------------------------|
+| `{`          | `AltGr + { = ^` (muerto)   | `AltGr + { = ` **`^`** (directo)          |
+| `}`          | `AltGr + } = `<code>&#96;</code>` (muerto)| `AltGr + } = ` **<code>&#96;</code>** (directo) |
 
 ## 🛠️ Cómo contribuir
 El layout fue creado con [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134). Si deseas personalizarlo:
-1. Clona/descarga este repositorio
-2. Abre el archivo `.klc` en MSKLC
-3. Modifica las asignaciones y recompila el layout
+1. Clona/descarga este repositorio.
+2. Abre el archivo `.klc` en MSKLC.
+3. Modifica las asignaciones y recompila el layout.
 
 ## 📜 Créditos
-- Herramienta base: [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+- Herramienta base: [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 - **Agradecimientos a DeepSeek**: Por su asistencia en la generación de este README. 🤖
-- Mantenido por: @nabetseanoj
+- Mantenido por: [Tu nombre o usuario].
 
 ---
 
 📌 **License**: Libre para uso personal y profesional. Se agradece mención del autor si se redistribuye.
 
 > 🌟 **Crédito adicional**: Este README fue mejorado con contribuciones de [DeepSeek](https://www.deepseek.com), un asistente de IA para desarrolladores.
+
