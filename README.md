@@ -6,7 +6,7 @@ Un layout de teclado en español **Latinoamericano ISO** modificado para desarro
 
 ## ✨ Características
 - **Backtick (<code>&#96;</code>) con una tecla**: Genera <code>&#96;</code> directamente con `AltGr + }`.
-- **Caret (^) directo**: Accede al símbolo `^` con `AltGr + {`.
+- **Caret (`^`) directo**: Accede al símbolo `^` con `AltGr + {`.
 - **Layout original preservado**: La tecla **Ñ y todas las demás** conservan su funcionamiento estándar.
 - **Optimizado para desarrollo**: Ideal para JavaScript, Git, Markdown y entornos CLI.
 
@@ -28,7 +28,7 @@ Un layout de teclado en español **Latinoamericano ISO** modificado para desarro
 | Tecla Física | Función Original       | Nueva Función              |
 |--------------|------------------------|----------------------------|
 | `{`          | `AltGr + { = ^` (muerto)   | `AltGr + { = ` **`^`** (directo)          |
-| `}`          | `AltGr + } = `<code>&#96;</code>` (muerto)| `AltGr + } = ` **<code>&#96;</code>** (directo) |
+| `}`          | `AltGr + } = <code>&#96;</code>` (muerto)| `AltGr + } = ` **<code>&#96;</code>** (directo) |
 
 ## 🛠️ Cómo contribuir
 El layout fue creado con [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134). Si deseas personalizarlo:
