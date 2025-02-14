@@ -16,8 +16,8 @@ Un layout de teclado en español **Latinoamericano ISO** modificado para desarro
    - Ejecuta el archivo `setup.exe` como administrador.
 
 2. **Configuración en Windows**:
-   - Ve a `Configuración > Hora e idioma > Idioma > Teclados`.
-   - Haz clic en **"Agregar un teclado"** y selecciona **"ES - Modified Dev Layout"**.
+   - Ve a `Configuración > Hora e idioma > Idioma y región > Español (México) > Opciones de Idioma`.
+   - Haz clic en **"Agregar un teclado"** y selecciona **"Latinoamericano - Custom"**.
 
 3. **¡Listo!**:
    - Usa la combinación `Win + Space` para cambiar entre teclados.
