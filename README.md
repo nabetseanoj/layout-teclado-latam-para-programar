@@ -39,7 +39,7 @@ El layout fue creado con [Microsoft Keyboard Layout Creator (MSKLC)](https://www
 ## 📜 Créditos
 - Herramienta base: [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 - **Agradecimientos a DeepSeek**: Por su asistencia en la generación de este README. 🤖
-- Mantenido por: [Tu nombre o usuario].
+- Mantenido por: [nabetseanoj](https://github.com/nabetseanoj)
 
 ---
 
