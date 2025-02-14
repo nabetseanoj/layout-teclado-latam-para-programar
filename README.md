@@ -27,8 +27,8 @@ Un layout de teclado en español **Latinoamericano ISO** modificado para desarro
 ## ⌨️ Mapa de teclas modificado
 | Tecla Física | Función Original       | Nueva Función              |
 |--------------|------------------------|----------------------------|
-| `{`          | `AltGr + { = ^` (muerto)   | `AltGr + { = ` **`^`** (directo)          |
-| `}`          | <code>AltGr + } =  &#96;</code> (muerto)| `AltGr + } = ` **<code>&#96;</code>** (directo) |
+| `{`          | `AltGr + { = ^^` (muerto)   | `AltGr + { = ` **`^`** (directo)          |
+| `}`          | <code>AltGr + } = &#96;&#96;</code> (muerto)| `AltGr + } = ` **<code>&#96;</code>** (directo) |
 
 ## 🛠️ Cómo contribuir
 El layout fue creado con [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134). Si deseas personalizarlo:
