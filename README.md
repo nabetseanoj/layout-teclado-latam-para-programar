@@ -43,7 +43,4 @@ El layout fue creado con [Microsoft Keyboard Layout Creator (MSKLC)](https://www
 
 ---
 
-📌 **License**: Libre para uso personal y profesional. Se agradece mención del autor si se redistribuye.
-
-> 🌟 **Crédito adicional**: Este README fue mejorado con contribuciones de [DeepSeek](https://www.deepseek.com), un asistente de IA para desarrolladores.
 
